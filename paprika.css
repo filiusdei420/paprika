@@ -1,0 +1,64 @@
+body {
+    background-color: #FFEFD5;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: #8B4513;
+    float: left;
+    
+}
+
+table {
+    border: 1px solid black;
+    margin-top: 40px;
+    margin: 0 auto;
+}
+
+th, tr {
+  padding: 5px;
+  text-align: left;
+}
+
+#oioioi {
+    text-align: left;
+}
+
+.menu {
+    width: 200px;
+    float: left;
+    padding: 25px;
+}
+
+.menu a{
+  color: blue;
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: white;
+}
+
+.fejlec {
+    color: gray;
+    background-image: url(sok.jpg);
+    height: 100px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 5px;
+    background-size:100%;
+}
+
+#zold {
+    background-color: green;
+}
+
+#feher {
+    background-color: white;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#purple {
+    background-color: purple;
+}
